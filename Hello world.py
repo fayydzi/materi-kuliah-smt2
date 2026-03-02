@@ -1,1 +1,1 @@
-##HOW to Claim  AWS Free
+print("hello world")
