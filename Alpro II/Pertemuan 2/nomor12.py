@@ -1,0 +1,6 @@
+print("Unary")
+print(-8)
+print(8)
+print("binary")
+print(25+5)
+print(30-15)

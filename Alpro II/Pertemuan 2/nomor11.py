@@ -1,0 +1,8 @@
+print("integer-integer")
+print(10%3)
+print("integer-float")
+print(8%7.)
+print("float-integer")
+print(3.%2)
+print("float-float")
+print(9.%2.)

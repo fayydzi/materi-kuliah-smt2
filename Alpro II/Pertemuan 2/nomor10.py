@@ -1,0 +1,8 @@
+print("integer-integer")
+print(9//3)
+print("integer-float")
+print(20//5.)
+print("float-integer")
+print(4.//2)
+print("float-float")
+print(3.//2.)

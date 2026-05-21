@@ -1,0 +1,3 @@
+"literal integer"
+print(11111111)
+print(-11111111)
